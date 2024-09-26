@@ -6,4 +6,3 @@
 |Col 2 es |centered|$12|
 |zebra stripes |son limpias|$1|
 
-hola que tal 
